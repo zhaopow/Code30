@@ -132,5 +132,6 @@ int main(void)
 	}
 	
 	printf("Goodbye");
+	printf("Thank you for swinging by!");
 	return 0;
 }
