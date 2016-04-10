@@ -1,8 +1,6 @@
 /*
 Zhao Taylor
 tz2857
-15980
-EE312-Assignment 3
 */
 
 
