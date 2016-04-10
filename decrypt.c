@@ -5,6 +5,7 @@ tz2857
 
 
 #include <stdio.h>
+#include <stdlib.h>
 
 
 /*
