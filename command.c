@@ -1,9 +1,11 @@
 /*Zhao Taylor
 tz2857
 */
+//Gotta command this ish
 
 #include <stdio.h>
 #include <math.h>
+
 int AustinHr, IrishHr, Min; /*variables for Time*/
 int Dollars, Cents;	/*Variables for Currency*/
 double Euros;	/*Variables for Currency*/
