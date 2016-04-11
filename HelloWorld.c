@@ -5,7 +5,7 @@
 int main(void)
 {
 	printf("Hello World/n");
-	printf("Welcome to day before! We are about to code!");
+	printf("Holy cow lets keep on track!);
 	getchar();
 	return 0;
 }
