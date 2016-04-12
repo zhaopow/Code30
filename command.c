@@ -134,5 +134,6 @@ int main(void)
 	}
 	
 	printf("Goodbye");
+	printf("And good riddance!");
 	return 0;
 }
