@@ -5,7 +5,6 @@
 int main(void)
 {
 	printf("Hello World/n");
-	printf("Keep up the good work");
-	getchar();
+	printf("Code Warrior");
 	return 0;
 }
