@@ -1,9 +1,9 @@
 /*
 Zhao Taylor
 tz2857
-15980
-EE312-Assignment 7
 */
+
+//Taylor's Parenthesis
 #include <stdio.h>
 #include <stdbool.h>
 #include <string.h>
