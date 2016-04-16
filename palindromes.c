@@ -3,7 +3,6 @@ Zhao Taylor
 tz2857
 */
 
-//Taylor's Parenthesis
 #include <stdio.h>
 #include <stdbool.h>
 #include <string.h>
