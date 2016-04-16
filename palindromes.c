@@ -3,7 +3,7 @@ Zhao Taylor
 tz2857
 */
 
-//Back at it again Daniel
+//what is going on
 #include <stdio.h>
 #include <stdbool.h>
 #include <string.h>
