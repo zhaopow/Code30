@@ -3,7 +3,7 @@ Zhao Taylor
 tz2857
 */
 
-//what is going on
+//Commit time
 #include <stdio.h>
 #include <stdbool.h>
 #include <string.h>
