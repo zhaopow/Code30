@@ -7,8 +7,7 @@
 #include <stdint.h>
 
 
-//Initialize the starting point of the array
-
+//Welcome to Malloc
 void init_array(char heap[]){
 	//Set the metadata at the end and beg
 
