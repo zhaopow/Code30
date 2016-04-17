@@ -1,21 +1,26 @@
-/*
-Zhao Taylor
-tz2857
-*/
+
 
 #include <stdlib.h>
+
 #include <stdio.h>
+
 #include <stdint.h>
 
+
 //Initialize the starting point of the array
+
 void init_array(char heap[]){
 	//Set the metadata at the end and beg
 
-	uint64_t x = 2496;
-	uint64_t* ptr64 = heap;
+	
+uint64_t x = 2496;
+	
+uint64_t* ptr64 = heap;
 	ptr64[0] = x;
-	ptr64[1249] = x;
+
+ptr64[1249] = x;
 }
+
 
 //Allocate requested memory
 char *my_malloc(char heap[], int numbytes) {
