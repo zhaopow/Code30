@@ -3,7 +3,7 @@ Zhao Taylor
 tz2857
 */
 
-//Yolo swag
+//Palindromes
 #include <stdio.h>
 #include <stdbool.h>
 #include <string.h>
