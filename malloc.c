@@ -7,7 +7,7 @@
 #include <stdint.h>
 
 
-//Welcome to Malloc
+//Malloc
 
 void init_array(char heap[]){
 	//Set the metadata at the end and beg
