@@ -1,6 +1,6 @@
 /*Zhao Taylor
 */
-//Plz want the tee
+//Plz
 
 #include <stdio.h>
 int main(void)
