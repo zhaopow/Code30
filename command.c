@@ -2,7 +2,7 @@
 tz2857
 */
 //Gotta command this ish
-//derp derp
+//derp
 
 #include <stdio.h>
 #include <math.h>
