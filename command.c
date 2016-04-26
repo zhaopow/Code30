@@ -3,6 +3,7 @@ tz2857
 */
 //Gotta command this ish
 //derp
+//CONTROL WARRIOR
 
 #include <stdio.h>
 #include <math.h>
