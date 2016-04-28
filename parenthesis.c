@@ -4,7 +4,7 @@ tz2857
 15980
 */
 //parenthesis stuff bruh
-//bro bro?
+
 #include <stdio.h>
 #include <stdbool.h>
 #include <stdlib.h> // pulls in declaration of malloc, free
