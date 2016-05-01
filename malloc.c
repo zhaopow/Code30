@@ -9,6 +9,7 @@
 
 //malloc
 //LOGO
+//Lego
 void init_array(char heap[]){
 	//Set the metadata at the end and beg
 
