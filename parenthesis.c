@@ -4,7 +4,6 @@ tz2857
 15980
 */
 
-//parenthesis stuff
 //at here
 //bud want to go????!
 #include <stdio.h>
