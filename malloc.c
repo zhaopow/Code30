@@ -7,7 +7,7 @@
 #include <stdint.h>
 
 
-//malloc
+
 //LOGO
 //Lego
 void init_array(char heap[]){
